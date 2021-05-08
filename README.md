@@ -12,8 +12,11 @@
 
 | 公司 | 时间 | 事件 | 外链 | 长截图 |
 | :--- | :--- | :--- | :--- | :----- |
+| 虎牙 | 2021/03/02 | 毁意向书 | [虎牙毁意向书，给各位找实习的师弟师妹提个醒](https://www.nowcoder.com/discuss/602477) | [虎牙毁意向书，给各位找实习的师弟师妹提个醒.png][虎牙毁意向书，给各位找实习的师弟师妹提个醒.png] |
+|高顿教育|2021/01/26|毁约|[高顿教育，最让我担心的事情还是让我摊上了](https://www.nowcoder.com/discuss/591473)|[高顿教育，最让我担心的事情还是让我摊上了](images/高顿教育，最让我担心的事情还是让我摊上了.png)|
+|多益网络|2020/12/02|寄三方或体检后被毁约|[本人寄三方后被毁约，打算签多益的看过来！！！](https://www.nowcoder.com/discuss/574772) <br> [多益网络体检完取消offer？](https://www.nowcoder.com/discuss/574432)|[本人寄三方后被毁约，打算签多益的看过来！！！][本人寄三方后被毁约，打算签多益的看过来！！！] <br> [多益网络体检完取消offer？][多益网络体检完取消offer？]|
+| 腾讯 | 2020/12/02 | 十月初收到意向书，十月底被告知岗位被取消，之后在不同的部门进行了四场面试至今无果 | [被腾讯毁意向了…万万没想到HR也会被HR坑](https://www.nowcoder.com/discuss/574490) | [截图备份.png](images/www.nowcoder.com_discuss_574490.png) |
 | 腾讯 | 2020/11/14 | 腾讯校招因不能提前实习被毁offer | [腾讯校招因不能提前实习被毁offer](https://www.nowcoder.com/discuss/564004) | [腾讯校招因不能提前实习被毁offer.png][www.nowcoder.com_discuss_564004.png] |
-| 猫眼 | 2020/10/20 | 宣传转正率99.9%，pua实习生 | [猫眼超恶心部门pua校招实习生](https://www.nowcoder.com/discuss/540329) | [猫眼超恶心部门pua校招实习生.png][猫眼超恶心部门pua校招实习生.png] |
 | 西山居 | 2020/10/31 | 毁实习生offer | [金山西山居欺骗实习生！真人真事](https://www.nowcoder.com/discuss/554535) | [截图备份.png](/images/西山居欺骗实习生.png) |
 | 转转网 | 2020/10/31<br>2020/11/02| 毁意向书 | [被毁意向书了](https://www.nowcoder.com/discuss/554654) <br> [转转的神奇操作+变相毁意向？](https://www.nowcoder.com/discuss/555817) | [截图备份1.png](/images/转转毁约意向书.png) <br> [截图备份2.png](/images/另一个转转毁约的帖子.png) |
 | 哔哩哔哩/bilibili | 2020/10/28 | 毁意向书 | [b站毁意向书](https://www.nowcoder.com/discuss/552315) | [b站毁意向书.png][b站毁意向书.png] |
@@ -25,7 +28,7 @@
 | 寒武纪 | 2020/10/11 | 抽奖面试直通卡，不安排面试（？？？）| [死渣男，寒武纪！！！](https://acm.nowcoder.com/discuss/535795) | [死渣男，寒武纪！！！.png][死渣男，寒武纪！！！.png] |
 | Oppo | 2020/08/22 | 实习转正，性别歧视（被公关道歉） | [关于OPPO实习女生转正问题的说明](https://www.nowcoder.com/discuss/485524) | [关于OPPO实习女生转正问题的说明.png][关于OPPO实习女生转正问题的说明.png] |
 | 旷视 | 2020/08/09 | 解约三方 | [旷视-秋招offer提前实习被告知工作不利被主动解约三方](https://www.nowcoder.com/discuss/396691) | [旷视-秋招offer提前实习被告知工作不利被主动解约三方.png][旷视-秋招offer提前实习被告知工作不利被主动解约三方.png] |
-|招银网络科技|2020/07/30|外包公司，PUA应届生|[奉劝各位21届的小伙伴不要去招银这个火坑了](https://www.nowcoder.com/discuss/462559)| 待补充 |
+|招银网络科技|2020/07/30|外包公司，PUA应届生|[奉劝各位21届的小伙伴不要去招银这个火坑了](https://www.nowcoder.com/discuss/462559)| [奉劝各位21届的小伙伴不要去招银这个火坑了.png][奉劝各位21届的小伙伴不要去招银这个火坑了.png] |
 |盛趣游戏|2020/07/27|毁三方，解约应届生|[大学生被盛趣公司坑害，毕业既失业](https://www.nowcoder.com/discuss/460237)| 待补充 |
 |四维图新|2020/07/03|毁三方，解约应届生|[拿到毕业证的第二天被通知解约](https://www.nowcoder.com/discuss/478674)| 待补充 |
 |马蜂窝|2020/06/11|20届应届全部被毁|[20届应届生6月被毁约/即将毕业，该何去何从](https://www.nowcoder.com/discuss/438700)| 待补充 |
@@ -89,4 +92,9 @@
 [旷视-秋招offer提前实习被告知工作不利被主动解约三方.png]: images/www.nowcoder.com_discuss_396691.png
 [b站毁意向书.png]: images/b站毁意向书.png
 [www.nowcoder.com_discuss_564004.png]:images/www.nowcoder.com_discuss_564004.png
+[本人寄三方后被毁约，打算签多益的看过来！！！]: images/本人寄三方后被毁约，打算签多益的看过来！！！.png
+[多益网络体检完取消offer？]: images/多益网络体检完取消offer？.png
+[虎牙毁意向书，给各位找实习的师弟师妹提个醒.png]: images/www.nowcoder.com_discuss_602477.png
+
 <!-- Screenshots -->
+
